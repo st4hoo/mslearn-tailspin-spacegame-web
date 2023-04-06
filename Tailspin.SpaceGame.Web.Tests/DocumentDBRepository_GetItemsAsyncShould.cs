@@ -24,7 +24,7 @@ namespace Tests
             }
         }
 
-        [TestCase("Milky Way")]
+        [TestCase("Milky Way_bug")]
         [TestCase("Andromeda")]
         [TestCase("Pinwheel")]
         [TestCase("NGC 1300")]
